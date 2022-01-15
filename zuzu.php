@@ -1,7 +1,7 @@
 <?php
     require_once('database.php');
 ?>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="zuzu.css">
 <div wrapper>
     <h1>Welkom bij restaurant ZuZu!</h1>
     <p>Wat wilt u bestellen?</p>
